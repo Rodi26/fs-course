@@ -9,8 +9,8 @@
   "author": "Dave Weilert",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.3.0",
-    "request": "^2.88.0",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2",
     "uuid": "^3.3.2"
   },
   "repository": {
